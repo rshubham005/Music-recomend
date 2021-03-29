@@ -1,0 +1,37 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: #c0c0c0;
+}
+.heading {
+  text-transform: uppercase;
+  font-family: cursive;
+  font-weight: 900;
+  background-color: white;
+  border-radius: 15px;
+  border: 2px solid grey;
+}
+.buttons {
+  padding: 10px 15px;
+  margin: 0px 10px;
+  border-radius: 10px;
+  background-color: white;
+  color: black;
+  text-transform: uppercase;
+  font-weight: 900;
+  cursor: pointer;
+}
+.songlist {
+  list-style: none;
+}
+.list {
+  font-size: 25px;
+  font-family: cursive;
+  font-weight: 900;
+  border: 2px solid white;
+  margin: 5px 0px;
+  padding: 10px;
+  border-radius: 15px;
+}
